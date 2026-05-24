@@ -1,6 +1,24 @@
+<h3> Full Stack Developer || Software Development Student </h3>
 
-  <h3> Full Stack Developer || Software Development Student </h3>
+### Hola 👋 <h2> Soy Abril Arancibia</h2>
 
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
+<h3> 💻 Sobre mí </h3>
+
+- 🌱 &nbsp; Aprendiendo desarrollo web y programación paso a paso.
+
+- 💡 &nbsp; Me interesa crear proyectos creativos y seguir mejorando mis habilidades.
+
+- 📚 &nbsp; Me gustan la literatura, las historias y la tecnología.
+
+- ☕ &nbsp; Muchas horas de estudio, música y código.
+
+- 🚀 &nbsp; Actualmente aprendiendo JavaScript, React y bases de datos.
+
+- 🎯 &nbsp; Buscando crecer como desarrolladora y construir proyectos propios.
+  
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 
